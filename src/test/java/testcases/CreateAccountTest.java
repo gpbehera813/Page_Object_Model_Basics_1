@@ -16,6 +16,8 @@ public class CreateAccountTest extends BaseTest{
 	@Test(dataProviderClass= Utilities.class, dataProvider="dp")
 	public void createAccountTest(Hashtable<String, String> data) throws InterruptedException {
 		
+		// This is the second test case of Page Object Model Project
+		
 		ZohoAppPage zp = new ZohoAppPage();
 		zp.goToCRM();
 		

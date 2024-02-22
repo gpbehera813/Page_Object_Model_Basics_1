@@ -13,6 +13,8 @@ public class LoginTest  {
 	@Test(dataProviderClass= Utilities.class, dataProvider="dp")
 	public void loginTest(Hashtable<String, String> data) throws InterruptedException {
 		
+		// This is the first test case of Page Object Model Project
+		
 		HomePage hp = new HomePage();
 		
 		LoginPage lp = hp.goToLogin();
