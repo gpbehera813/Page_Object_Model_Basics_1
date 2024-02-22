@@ -1,0 +1,17 @@
+19:57:08,080 DEBUG devpinoyLogger:82 - Configuration file loaded !!!
+19:57:08,084 DEBUG devpinoyLogger:105 - Object Repo file loaded !!!
+19:57:12,150 DEBUG devpinoyLogger:141 - Chrome browser launched !!!
+19:57:29,618 DEBUG devpinoyLogger:162 - Navigated to: https://www.zoho.com/
+19:57:36,880 DEBUG devpinoyLogger:252 - Typing in an Element : username_CSSentered value as :seleniumpractice2024@gmail.com
+19:57:37,431 DEBUG devpinoyLogger:252 - Typing in an Element : password_CSSentered value as :Selenium@12345
+19:57:37,678 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+19:57:37,680 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+19:57:37,682 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:57:37,684 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:57:37,684 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+19:58:23,675 DEBUG devpinoyLogger:252 - Typing in an Element : accountName_CSSentered value as :Shyam
+19:58:23,677 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+19:58:23,677 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+19:58:23,678 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+19:58:23,680 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+19:58:23,680 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/HP/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
